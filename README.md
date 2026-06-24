@@ -299,6 +299,7 @@ This dashboard helps stakeholders:
 
 ✔ Power Query Data Transformation
 
+Screenshot of Dashboard-- https://github.com/ANALYSTRAJANKUMAR/Financial-Performance-Analysis-Dashboard/blob/main/Finance%20report.png
 ---
 
 ## 📧 Contact
